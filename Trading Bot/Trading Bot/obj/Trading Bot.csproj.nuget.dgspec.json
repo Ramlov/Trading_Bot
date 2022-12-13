@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathi\\source\\repos\\Trading_Bot\\Trading_Bot\\Trading_Bot.csproj": {}
+    "C:\\Users\\mathi\\Documents\\GitHub\\Trading_Bot\\Trading Bot\\Trading Bot\\Trading Bot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathi\\source\\repos\\Trading_Bot\\Trading_Bot\\Trading_Bot.csproj": {
+    "C:\\Users\\mathi\\Documents\\GitHub\\Trading_Bot\\Trading Bot\\Trading Bot\\Trading Bot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathi\\source\\repos\\Trading_Bot\\Trading_Bot\\Trading_Bot.csproj",
-        "projectName": "Trading_Bot",
-        "projectPath": "C:\\Users\\mathi\\source\\repos\\Trading_Bot\\Trading_Bot\\Trading_Bot.csproj",
+        "projectUniqueName": "C:\\Users\\mathi\\Documents\\GitHub\\Trading_Bot\\Trading Bot\\Trading Bot\\Trading Bot.csproj",
+        "projectName": "Trading Bot",
+        "projectPath": "C:\\Users\\mathi\\Documents\\GitHub\\Trading_Bot\\Trading Bot\\Trading Bot\\Trading Bot.csproj",
         "packagesPath": "C:\\Users\\mathi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathi\\source\\repos\\Trading_Bot\\Trading_Bot\\obj\\",
+        "outputPath": "C:\\Users\\mathi\\Documents\\GitHub\\Trading_Bot\\Trading Bot\\Trading Bot\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathi\\AppData\\Roaming\\NuGet\\NuGet.Config",
